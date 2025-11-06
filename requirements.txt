@@ -1,9 +1,9 @@
 streamlit
-plotly
-streamlit-lottie
-streamlit_extras
-streamlit-option-menu
-joblib
-scikit-learn
-numpy
+xgboost==2.0.3
+scikit-learn==1.3.2
+joblib==1.3.2
 pandas
+numpy
+matplotlib
+plotly
+streamlit_extras
